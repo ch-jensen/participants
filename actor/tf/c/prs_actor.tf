@@ -1,11 +1,10 @@
 @node
 @coreData=BHSA
 @coreVersion=c
-@description=Participant references for pronominal suffixes. The references are adapted from Eep Talstra's work
-        on participant tracking. http://doi.org/10.5281/zenodo.1479491
+@description=Participant references for pronominal suffixes. The references are adapted from Eep Talstra's work on participant tracking. http://doi.org/10.5281/zenodo.1479491
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2018-11-08T10:32:14Z
+@dateWritten=2018-11-08T11:08:24Z
 
 63020	>HRN
 63028	>HRN BN >HRN
