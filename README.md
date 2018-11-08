@@ -23,6 +23,6 @@ This work is licensed under a Attribution-NonCommercial 4.0 International (CC BY
 * You may download the data and use it: process, copy, modify;
 * You may use the data to create new software applications;
 * You may use the data for research and publish any amount of results;
-* When you publish this data or results you obtained from them, you have to comply with the following: DOI
+* When you publish this data or results you obtained from them, you have to comply with the following: [![DOI](https://zenodo.org/badge/156556830.svg)](https://zenodo.org/badge/latestdoi/156556830)
   * give proper attribution to the data when you use it in new applications, by citing this persistent identifier:
   * do not use the data for commercial applications without consent.
