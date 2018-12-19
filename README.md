@@ -1,4 +1,4 @@
-# Semantic-mapping-of-participants
+# Participants
 Semantic mapping of literary participants is a linguistic endavour that includes several task. The underlying question is "who are doing what to whom?" And further "what does this interaction entail in terms of the relationship among the characters in questions?"
 
 The present work investigates network analysis on a corpus from the Hebrew Bible. The text is from Leviticus 17-26, a legal text with a number of participants, including the Lord, Moses, Aaron, the sons of Aaron, the sons of Israel, foreigners, the brother, the neighbor, the priests, the family of the priest, and so forth. This group of characters constitute a network of relationships and interactions but traditional, non-digital approaches struggle to cope with the relative high amount of data needed for a consistent mapping. For a digital approach, the amount of data is not an issue. Rather, the more data we have, the more precise can we model the networks of the participants.
