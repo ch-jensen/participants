@@ -4,7 +4,7 @@
 @description=Participant references for pronominal suffixes. The references are adapted from Eep Talstra's work on participant tracking. http://doi.org/10.5281/zenodo.1479491
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2018-12-19T15:37:58Z
+@dateWritten=2020-05-11T13:34:13Z
 
 63020	>HRN
 63028	>HRN BN >HRN BN JFR>L
@@ -21,7 +21,7 @@
 63183	BJT JFR>L
 63195	<LH ZBX
 63198	<LH ZBX
-63208	>JC >JC
+63208	>JC >JC BJT JFR>L GR
 63222	BJT JFR>L
 63229	JHWH
 63240	NPC
@@ -337,7 +337,7 @@ BN JFR>L
 65172	KHN GDWL
 65177	KHN GDWL
 KHN GDWL
-65185	>CH
+65185	>CH_2
 65201	KHN GDWL
 65207	KHN GDWL
 65209	KHN GDWL
@@ -390,7 +390,7 @@ KHN GDWL
 65609	LXM >B BT KHN
 65619	QDC
 QDC
-65643	>HRN BN >HRN
+65643	BN JFR>L
 65647	>HRN BN >HRN
 65649	BN JFR>L
 65653	>HRN BN >HRN
@@ -605,10 +605,10 @@ BN JFR>L
 "YOUSgmas"
 67807	>X "YOUSgmas"
 67813	"YOUSgmas"
-67817	GR TWCB
+67817	>X "YOUSgmas"
 67824	"YOUSgmas"
 67827	"YOUSgmas"
-BN JFR>L
+"YOUSgmas"
 67830	"YOUSgmas"
 67833	>X "YOUSgmas"
 67841	"YOUSgmas"
